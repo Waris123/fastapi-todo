@@ -1,0 +1,1 @@
+DEBUG:psycopg.pq:couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
